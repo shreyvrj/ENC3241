@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Shrey Viroja
+# Shrey Viroja
 
 [Paste your professional paragraph from Week 2 here]
 
